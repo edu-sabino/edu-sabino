@@ -6,6 +6,11 @@
 - 📫 How to reach me: https://www.linkedin.com/in/eduardo-sabino-dev/
 - ⚡ Fun fact: I live to serve my two fat cats! :octocat: :octocat:
 
+
+### What I've been doing here...
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=edu-sabino&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 <!--
 **edu-sabino/edu-sabino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
