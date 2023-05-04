@@ -1,8 +1,8 @@
 ### Hi there, this is Eduardo Sabino 👋
 
-- 💻 I’m currently working on building up my skills for this new challenge
-- 📚 I’m currently learning Docker, Node.js, AWS, Java and Python
-- 👍 I’m looking to collaborate on software development projects that may come
+- 💻 I’m currently working as a tutor in program from Huawei ICT Academy where I help over 100 students initiate their certifications path in AI
+- 📚 I’m currently learning RabbitMQ to provide efficient communication between applications in distributed systems
+- 👍 I’m an easygoing person who loves to learn and mostly, loves to share knowledge
 - 🤣 Fun fact: I live to serve my two fat cats! :octocat: :octocat:
 
 ##
