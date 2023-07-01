@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there! This is Eduardo</h1>
 <h3 align="center">I'm a software developer who loves data, AI and DevOps.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edu-sabino&label=Profile%20views&color=0e75b6&style=flat" alt="edu-sabino" /> </p>
 
